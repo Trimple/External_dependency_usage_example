@@ -1,0 +1,3 @@
+[submodule "submodule_based_source/External_dependency_submodule_source_example"]
+	path = submodule_based_source/External_dependency_submodule_source_example
+	url = https://github.com/Trimple/External_dependency_submodule_source_example
